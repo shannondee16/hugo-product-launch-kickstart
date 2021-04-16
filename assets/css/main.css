@@ -36,11 +36,11 @@
 #
 */
 
-/*
+
 .border-t {
-  border-color: rgb(239, 130, 44);
+  border-color: rgb(134, 1, 17);
 }
-*/
+
 
 /*
 #
@@ -54,7 +54,7 @@
 }
 
 #brand-headline {
-  color: rgb(255, 155, 255);
+  color: rgb(255, 255, 255);
 }
 
 #tagline-paragraph {
@@ -70,7 +70,7 @@
 
 
 .prose h1 {
-  color: rgb(239, 130, 44);
+  color: rgb(255, 255, 255);
 }
 
 .prose p {
