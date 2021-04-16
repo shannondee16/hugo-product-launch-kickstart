@@ -50,11 +50,11 @@
 
 
 #header-inner-wrapper {
-  background-color: rgba(26, 38, 191, 0.9);
+  background-color: rgba(0, 0, 0, 0.9);
 }
 
 #brand-headline {
-  color: rgb(239, 130, 44);
+  color: rgb(255, 155, 255);
 }
 
 #tagline-paragraph {
@@ -74,6 +74,6 @@
 }
 
 .prose p {
-  color: white;
+  color: rgba(0, 0, 0, 0.9);
 }
 
