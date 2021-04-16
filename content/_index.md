@@ -3,7 +3,7 @@ header_brand: "Join the Dark Side"
 header_tagline_paragraph: "Do you feel empowered from feelings of anger, hatred, greed, jealous, fear, aggression, and unrestrained passion? Does it feel like there's a roaring fire growing inside of you that you want to unleash? You're in the right place! Join the Dark Side today!"
 header_button_cta:
   url: "#contact-form"
-  title: "Get in touch"
+  title: "Join now!"
 teaser_image: "images/darth-vader.jpeg"
 ---
 
