@@ -4,10 +4,6 @@ header_tagline_paragraph: "Do you feel empowered from feelings of anger, hatred,
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
-header_button_more:
-  url: "#the-future---today"
-  title: "What is the Dark Side?"
-teaser_image: "images/darth-vader.jpeg" # https://www.pexels.com/search/product%20testing/
 ---
 
 # What's the Dark Side?
@@ -26,14 +22,6 @@ e Infinite Empire. Contact us today and we'll find the right fit for you!
 # Disclaimer
 
 The Dark Side of the Force may cause physical mutations and suck the soul from your body. You may experience some yellowing of the skin, hollowing of the eyes, wrinkles, and overall unpleasantness. Recommended by 0 out of 10 doctors.
-
-Jane Doe
-1093 Simpson Square
-May 73851, OK
-USA
-
-E-mail: jane@doe.net
-Phone: 580-689-0577
 
 We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
 
