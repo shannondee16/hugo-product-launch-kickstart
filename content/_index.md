@@ -4,6 +4,7 @@ header_tagline_paragraph: "Do you feel empowered from feelings of anger, hatred,
 header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
+teaser_image: "images/darth-vader.jpeg"
 ---
 
 # What's the Dark Side?
